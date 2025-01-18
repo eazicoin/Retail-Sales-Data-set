@@ -17,14 +17,16 @@ This dataset invites you to unravel intricate patterns, draw insights,  and gain
 Diverse Insights: From demographic insights to product preferences, the dataset offers a broad spectrum of factors to investigate. 
 Hypothesis Generation: As you perform EDA, you'll have the chance to formulate hypotheses that can guide further analysis and experimentation.
 <h3>Questions to Explore</h3> 
-1. Find the Total Quantity of Product sold 
-2. How many are the Product Category? 
-3. How does customer age and gender influence their purchasing behavior? 
-4. Are there discernible patterns in sales across different time periods? 
-5. Which product categories hold the highest appeal among customers? 
-6. What are the relationships between age, spending, and product preferences? 
-7. How do customers adapt their shopping habits during seasonal trends, having the season: Spring (March, April, and May), Summer (June, July, and August) Autumn (September, October, and November), Winter (December, January, and February) 
-8. Are there distinct purchasing behaviors based on the number of items bought per transaction? 
+<ul>
+<li> Find the Total Quantity of Product sold</li> 
+<li> How many are the Product Category?</li> 
+<li> How does customer age and gender influence their purchasing behavior?</li> 
+<li> Are there discernible patterns in sales across different time periods?</li> 
+<li> Which product categories hold the highest appeal among customers?</li> 
+<li> What are the relationships between age, spending, and product preferences?</li> 
+<li> How do customers adapt their shopping habits during seasonal trends, having the season: Spring (March, April, and May), Summer (June, July, and August) Autumn (September, October, and November), Winter (December, January, and February)</li> 
+<li> Are there distinct purchasing behaviors based on the number of items bought per transaction?</li> 
+</ul>
                      Note: The above insights are to be visualized using Power BI Desktop
 
 To analyze this dataset based on the outlined questions, we can design a hypothetical retail dataset that captures customer purchases & behaviors, insights, recommendations, and conclusions. Here’s a structured outline of what the dataset could include: Data preparation, Data modeling and Data visualization.
