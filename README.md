@@ -9,13 +9,14 @@ This dataset invites you to unravel intricate patterns, draw insights,  and gain
      This dataset is a snapshot of a fictional retail landscape, capturing essential attributes that drive retail operations and customer interactions. It includes key details such as Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Revenue. These attributes enable a multifaceted exploration of sales trends, demographic influences, and purchasing behaviors.
  
 
+<img src="Folder/Picture1.png">
 
 
-Why Explore This Dataset?
+<h2>Why Explore This Dataset?</h2>
  Realistic Representation: Though synthetic, the dataset mirrors real-world retail scenarios, allowing you to practice analysis within a familiar context. 
 Diverse Insights: From demographic insights to product preferences, the dataset offers a broad spectrum of factors to investigate. 
 Hypothesis Generation: As you perform EDA, you'll have the chance to formulate hypotheses that can guide further analysis and experimentation.
-Questions to Explore 
+<h3>Questions to Explore</h3> 
 1. Find the Total Quantity of Product sold 
 2. How many are the Product Category? 
 3. How does customer age and gender influence their purchasing behavior? 
@@ -27,16 +28,17 @@ Questions to Explore
                      Note: The above insights are to be visualized using Power BI Desktop
 
 To analyze this dataset based on the outlined questions, we can design a hypothetical retail dataset that captures customer purchases & behaviors, insights, recommendations, and conclusions. Here’s a structured outline of what the dataset could include: Data preparation, Data modeling and Data visualization.
-Data Preparation:
-•	Data Collection: I imported this dataset from Excel file to my power BI through the data               import method. The data structure include: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit and Revenue, Imported into power query.
-•	Data Transformation: I ensure date formats are consistent and I created calculated columns & measures (Season based on month, Distinct categories, Item bins, Total number of transactions, Total number of customers, Total quantity, Total Revenue, Total Unit prize, Age range & Age band) to summarize the data.
-•	Data Cleaning: Check for missing values, duplicates, and inconsistent formats in my POWER QUERY. Clean the data to ensure accuracy for my analysis.
-
-Data Modeling:
+<h2>Data Preparation:</h2>
+<ul>
+	<li>Data Collection: I imported this dataset from Excel file to my power BI through the data               import method. The data structure include: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit and Revenue, Imported into power query.</li>
+	<li>Data Transformation: I ensure date formats are consistent and I created calculated columns & measures (Season based on month, Distinct categories, Item bins, Total number of transactions, Total number of customers, Total quantity, Total Revenue, Total Unit prize, Age range & Age band) to summarize the data.</li>
+	<li>Data Cleaning: Check for missing values, duplicates, and inconsistent formats in my POWER QUERY. Clean the data to ensure accuracy for my analysis.</li>
+</ul>
+<h2>Data Modeling:</h2>
 I created a relationship with my tables (Date, Gender, Product Category, Retail Sales Fact) by merging all together with a unique identifier.
 
  
-
+<img src="Folder/Picture2.png">
 
 
 Data Visualization: 
